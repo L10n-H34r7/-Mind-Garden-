@@ -2,7 +2,7 @@
 
 **A meditative digital garden where your thoughts become living, breathing procedural plants.**
 
-[**→ Visit the Live Garden**](#) <!-- Replace # with your GitHub Pages URL -->
+[**→ Visit the Live Garden**]([#](https://l10n-h34r7.github.io/-Mind-Garden-/)) <!-- Replace # with your GitHub Pages URL -->
 
 ![Mind Garden](https://img.shields.io/badge/Mind-Garden-4ecdc4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48dGV4dCB5PScuOWVtJyBmb250LXNpemU9JzkwJz7wn4yxPC90ZXh0Pjwvc3ZnPg==)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-green?style=for-the-badge)
